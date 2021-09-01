@@ -8,6 +8,7 @@ body {
     background-attachment: fixed;
     
 }
+i.custom {font-size: 6em; color:white;}
     
 @media screen and (max-width: 992px) {
     header {
@@ -96,3 +97,10 @@ footer {
     color: white;
     font-weight: bold;
 }
+.carousel-inner img {
+    margin: auto;
+  }
+  .carousel-caption {
+      color:white;
+      background-color: black;
+  }
